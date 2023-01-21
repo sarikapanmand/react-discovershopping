@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import "./App.css";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch} from "react-router-dom";
 import HomePage from "./containers/HomePage";
 import ProductListPage from "./containers/ProductListPage";
 import { useDispatch, useSelector } from "react-redux";
