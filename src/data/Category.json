@@ -1,0 +1,796 @@
+[
+  {
+    "icon": "https://rukminim1.flixcart.com/flap/128/128/image/f15c02bfeb02d15d.png?q=100",
+    "title": "Top Offers"
+  },
+  {
+    "icon": "https://rukminim1.flixcart.com/flap/128/128/image/29327f40e9c4d26b.png?q=100",
+    "title": "Grocery"
+  },
+  {
+    "icon": "https://rukminim1.flixcart.com/flap/128/128/image/22fddf3c7da4c4f4.png?q=100",
+    "title": "Mobiles"
+  },
+  {
+    "icon": "https://rukminim1.flixcart.com/flap/128/128/image/c12afc017e6f24cb.png?q=100",
+    "title": "Fashion",
+    "subCat": [
+      {
+        "name": " Men's Top Wear ",
+        "innercat": [
+          {
+            "name": "All"
+          },
+          {
+            "name": "Men's T-shirts"
+          },
+          {
+            "name": "Men's Casual Shirts"
+          },
+          {
+            "name": "Men's Formal Shirts"
+          },
+          {
+            "name": "Men's Kurtas"
+          },
+          {
+            "name": "Men's Ethic Sets"
+          },
+          {
+            "name": "Men's Blazers"
+          },
+          {
+            "name": "Men's Raincoat"
+          },
+          {
+            "name": "Men's Windcheaters"
+          },
+          {
+            "name": "Men's Suits"
+          },
+          {
+            "name": "Men's Fabrics"
+          }
+        ]
+      },
+      {
+        "name": " Men's Bottom Wear ",
+        "innercat": [
+          {
+            "name": "All "
+          },
+          {
+            "name": "Men's Jeans"
+          },
+          {
+            "name": "Men's Trousers"
+          },
+          {
+            "name": "Men's Trackpants"
+          },
+          {
+            "name": "Men's Shorts"
+          },
+          {
+            "name": "Men's Cargos"
+          },
+          {
+            "name": "Men's Threefourths"
+          },
+          {
+            "name": "Men's Pyjamas & Loungepants"
+          },
+          {
+            "name": "Men's Dhoti"
+          },
+          {
+            "name": "Men's Ethnic Pyjama"
+          }
+        ]
+      },
+      {
+        "name": "Women Ethnic ",
+        "innercat": [
+          {
+            "name": "All"
+          },
+          {
+            "name": "Women Sarees"
+          },
+          {
+            "name": "Women Kurtas & Kurtis"
+          },
+          {
+            "name": "Women Kurta Sets & Salwar "
+          },
+          {
+            "name": "Suits"
+          },
+          {
+            "name": "Ethnic Dresses"
+          },
+          {
+            "name": "Women Dress Materials"
+          },
+          {
+            "name": "Women Gowns"
+          },
+          {
+            "name": "Women Lehenga Cholis"
+          },
+          {
+            "name": "Women Leggings & Patialas"
+          },
+          {
+            "name": "Women Palazzos & Shararas"
+          },
+          {
+            "name": "Women Blouse"
+          },
+          {
+            "name": "Women Dupatta"
+          }
+        ]
+      },
+      {
+        "name": "Women Western ",
+        "innercat": [
+          {
+            "name": "All"
+          },
+          {
+            "name": "Women Tops"
+          },
+          {
+            "name": "Women Dresses"
+          },
+          {
+            "name": "Women T-shirts & Polo "
+          },
+          {
+            "name": "T-shirts"
+          },
+          {
+            "name": "Women Jeans"
+          },
+          {
+            "name": "Women Nighties & Night "
+          },
+          {
+            "name": "Dresses"
+          },
+          {
+            "name": "Women Nightsuit"
+          },
+          {
+            "name": "Women Track Pants"
+          },
+          {
+            "name": "Women Trouser"
+          },
+          {
+            "name": "Women Jumpsuit"
+          },
+          {
+            "name": "Women Shapewear"
+          },
+          {
+            "name": "Women Sports Bra"
+          }
+        ]
+      },
+      {
+        "name": "Men Footwear ",
+        "innercat": [
+          {
+            "name": "All "
+          },
+          {
+            "name": "Men's Sports Shoes"
+          },
+          {
+            "name": "Men's Casual Shoes"
+          },
+          {
+            "name": "Men's Sandals & Floaters"
+          },
+          {
+            "name": "Men's Slippers & Flip "
+          },
+          {
+            "name": "Flops"
+          },
+          {
+            "name": "Men's Formal Shoes"
+          },
+          {
+            "name": "Men's Ethnic Shoes"
+          },
+          {
+            "name": "Active Footwear"
+          },
+          {
+            "name": "Combo Footwear"
+          },
+          {
+            "name": "Shoe Care"
+          }
+        ]
+      },
+      {
+        "name": "Women Footwear ",
+        "innercat": [
+          {
+            "name": "All"
+          },
+          {
+            "name": "Women Flats"
+          },
+          {
+            "name": "Women Wedges"
+          },
+          {
+            "name": "Women Slipper Flip Flops"
+          },
+          {
+            "name": "Women Casual Shoes"
+          },
+          {
+            "name": "Women Sports Shoes"
+          },
+          {
+            "name": "Women Ballerinas"
+          },
+          {
+            "name": "Women Ethnic Shoes"
+          },
+          {
+            "name": "Women Sneakers"
+          },
+          {
+            "name": "Women Walking Shoes"
+          },
+          {
+            "name": "Women Boots"
+          }
+        ]
+      },
+      {
+        "name": "Watches and Accessories ",
+        "innercat": [
+          {
+            "name": "All "
+          },
+          {
+            "name": "Men & Women Watches"
+          },
+          {
+            "name": "Men & Women Sunglasses"
+          },
+          {
+            "name": "Wallets"
+          },
+          {
+            "name": "Men & Women Belts"
+          },
+          {
+            "name": "Women Fashion Jewellery"
+          },
+          {
+            "name": "Men Fashion Jewellery"
+          },
+          {
+            "name": "Precious Jewellery"
+          },
+          {
+            "name": "Precious Coins & Bars"
+          },
+          {
+            "name": "Precious Articles"
+          },
+          {
+            "name": "Frames & Contact Lenses"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "icon": "https://rukminim1.flixcart.com/flap/128/128/image/69c6589653afdb9a.png?q=100",
+    "title": "Electronics",
+    "subCat": [
+      {
+        "name": "Audio",
+        "innercat": [
+          {
+            "name": "All"
+          },
+          {
+            "name": "Bluetooth Headphones"
+          },
+          {
+            "name": "Wired Headphones"
+          },
+          {
+            "name": "True Wireless Earbuds"
+          },
+          {
+            "name": "Bluetooth Speakers"
+          },
+          {
+            "name": "Soundbars"
+          },
+          {
+            "name": "Home Theatres"
+          },
+          {
+            "name": "TV Streaming Device"
+          },
+          {
+            "name": "Remote Control"
+          },
+          {
+            "name": "DTH Set top box"
+          },
+          {
+            "name": "Headphones Pouch & Case Covers"
+          }
+        ]
+      },
+      {
+        "name": "Cameras & Accessories",
+        "innercat": [
+          {
+            "name": "All"
+          },
+          {
+            "name": "DSLR & Mirrorless"
+          },
+          {
+            "name": "Sports & action"
+          },
+          {
+            "name": "Point & Shoot"
+          },
+          {
+            "name": "Instant Cameras"
+          },
+          {
+            "name": "Camcorders"
+          },
+          {
+            "name": "Camera tripods"
+          },
+          {
+            "name": "Camera Lenses"
+          },
+          {
+            "name": "Drone"
+          },
+          {
+            "name": "Flashes"
+          },
+          {
+            "name": "Gimbals"
+          }
+        ]
+      },
+      {
+        "name": "Computer Peripherals ",
+        "innercat": [
+          {
+            "name": "All"
+          },
+          {
+            "name": "Printers"
+          },
+          {
+            "name": "Monitors"
+          },
+          {
+            "name": "Projectors "
+          },
+          {
+            "name": "Portable Projectors"
+          },
+          {
+            "name": "Toners"
+          },
+          {
+            "name": "Ink Cartridges"
+          },
+          {
+            "name": "Ink Bottles"
+          },
+          {
+            "name": "Receipt Printers"
+          },
+          {
+            "name": "Lamination Machines"
+          },
+          {
+            "name": "Note Counting Machines"
+          },
+          {
+            "name": "Barcode Scanners"
+          }
+        ]
+      },
+      {
+        "name": "Gaming",
+        "innercat": [
+          {
+            "name": "All"
+          },
+          {
+            "name": "Gaming Consoles"
+          },
+          {
+            "name": "Gaming Mouse"
+          },
+          {
+            "name": "Gaming Keyboards "
+          },
+          {
+            "name": "Gamepads"
+          },
+          {
+            "name": "Games"
+          },
+          {
+            "name": "Accessory Kits "
+          },
+          {
+            "name": "Gaming Accessories Combo"
+          },
+          {
+            "name": "Gaming Mousepads"
+          },
+          {
+            "name": "Membership Cards"
+          },
+          {
+            "name": "Controllers"
+          },
+          {
+            "name": "Other Gaming Accessories"
+          },
+          {
+            "name": "Gaming Components"
+          }
+        ]
+      },
+      {
+        "name": "Heath & Personal Care ",
+        "innercat": [
+          {
+            "name": "All "
+          },
+          {
+            "name": "Trimmers"
+          },
+          {
+            "name": "Shavers"
+          },
+          {
+            "name": "Hair Straighteners"
+          },
+          {
+            "name": "Hair Dryers "
+          },
+          {
+            "name": "Glucometers And Accessories"
+          },
+          {
+            "name": "Blood Pressure Monitors"
+          },
+          {
+            "name": "Digital Thermometers"
+          },
+          {
+            "name": "Weighing Scales"
+          },
+          {
+            "name": "Massagers"
+          },
+          {
+            "name": "Nebulizers"
+          },
+          {
+            "name": "Vaporizers"
+          }
+        ]
+      },
+      {
+        "name": "Laptop Accessories ",
+        "innercat": [
+          {
+            "name": "All"
+          },
+          {
+            "name": "Mouse"
+          },
+          {
+            "name": "Laptop Keyboards"
+          },
+          {
+            "name": "Router"
+          },
+          {
+            "name": "Data Cards"
+          },
+          {
+            "name": "UPS"
+          },
+          {
+            "name": "USB Gadgets"
+          },
+          {
+            "name": "Security Software"
+          },
+          {
+            "name": "Laptop Battery"
+          },
+          {
+            "name": "Laptop Adapter"
+          },
+          {
+            "name": "Wireless USB Adapter"
+          },
+          {
+            "name": "Processor"
+          }
+        ]
+      },
+      {
+        "name": "Laptop and Desktop",
+        "innercat": [
+          {
+            "name": "All "
+          },
+          {
+            "name": "Laptops"
+          },
+          {
+            "name": "Gaming Laptops"
+          },
+          {
+            "name": "Desktop PCs"
+          },
+          {
+            "name": "All In One PCs"
+          },
+          {
+            "name": "Mini PCs"
+          },
+          {
+            "name": "Tower PCs"
+          },
+          {
+            "name": "PC Finder"
+          },
+          {
+            "name": "GST Invoice on Laptops"
+          },
+          {
+            "name": "Laptop Buying Guide"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "icon": "https://rukminim1.flixcart.com/flap/128/128/image/ab7e2b022a4587dd.jpg?q=100",
+    "title": "Home"
+  },
+  {
+    "icon": "https://rukminim1.flixcart.com/flap/128/128/image/0ff199d1bd27eb98.png?q=100",
+    "title": "Appliances"
+  },
+  {
+    "icon": "https://rukminim1.flixcart.com/flap/128/128/image/71050627a56b4693.png?q=100",
+    "title": "Travel"
+  },
+  {
+    "icon": "https://rukminim1.flixcart.com/flap/128/128/image/dff3f7adcf3a90c6.png?q=100",
+    "title": "Beauty, Toys & More",
+    "subCat": [
+      {
+        "name": " Beauty & Personal Care ",
+        "innercat": [
+          {
+            "name": "All"
+          },
+          {
+            "name": "Men's T-shirts"
+          },
+          {
+            "name": "Bath & Oral Care"
+          },
+          {
+            "name": "Personal Hygiene"
+          },
+          {
+            "name": "Eye Makeup"
+          },
+          {
+            "name": "Face Makeup"
+          },
+          {
+            "name": "Lip Makeup"
+          },
+          {
+            "name": "Hair Care"
+          },
+          {
+            "name": "Bath Essentials"
+          },
+          {
+            "name": "Women's Personal Hygiene"
+          },
+          {
+            "name": "Body & Skin Care"
+          },
+          {
+            "name": "Luxury"
+          },
+          {
+            "name": "Top Brand Deals"
+          }
+        ]
+      },
+      {
+        "name": " Men's Grooming ",
+        "innercat": [
+          {
+            "name": "All "
+          },
+          {
+            "name": "Face Washes"
+          },
+          {
+            "name": "Beard Oils"
+          },
+          {
+            "name": "Hair Styling"
+          },
+          {
+            "name": "Shaving Essentials"
+          },
+          {
+            "name": "Aftershave"
+          },
+          {
+            "name": "Face Creams & Face Packs"
+          },
+          {
+            "name": "Soaps & Bodywashes"
+          },
+          {
+            "name": "Men's Grooming Combos"
+          },
+          {
+            "name": "Sexual Wellness"
+          }
+        ]
+      },
+      {
+        "name": "Food & Drinks ",
+        "innercat": [
+          {
+            "name": "All"
+          },
+          {
+            "name": "Beverages"
+          },
+          {
+            "name": "Nuts & Dry Fruits"
+          },
+          {
+            "name": "Cooking Essentials"
+          },
+          {
+            "name": "Breakfast Items"
+          },
+          {
+            "name": "Snacks Corner"
+          },
+          {
+            "name": "Jams, spreads & Honey"
+          },
+          {
+            "name": "Ready to Cook & Eat"
+          },
+          {
+            "name": "Chocolates"
+          },
+          {
+            "name": "Baking Essentials"
+          },
+          {
+            "name": "Top Brand Deals"
+          }
+        ]
+      },
+      {
+        "name": "Nutrition & Heath Care ",
+        "innercat": [
+          {
+            "name": "All"
+          },
+          {
+            "name": "Masks"
+          },
+          {
+            "name": "Ayurvedic Supplements"
+          },
+          {
+            "name": "Health Drinks "
+          },
+          {
+            "name": "Vitamin Supplements"
+          },
+          {
+            "name": "Protein Supplements"
+          },
+          {
+            "name": "Women's Safety"
+          },
+          {
+            "name": "Home Medicines"
+          },
+          {
+            "name": "Home Medical Supplies"
+          },
+          {
+            "name": "Healthcare Comos"
+          },
+          {
+            "name": "Professional Medical Supplies"
+          },
+          {
+            "name": "Top Brand Deals"
+          }
+        ]
+      },
+      {
+        "name": "Baby Care ",
+        "innercat": [
+          {
+            "name": "All "
+          },
+          {
+            "name": "Baby Diapers"
+          },
+          {
+            "name": "Baby Wipes"
+          },
+          {
+            "name": "Baby Bath & Grooming"
+          },
+          {
+            "name": "Baby Gift Sets & Combo "
+          },
+          {
+            "name": "Baby Medical & Health Care"
+          },
+          {
+            "name": "Nursing & Breast Feeding"
+          },
+          {
+            "name": "Feeding Bottles, Utensils & Accessories"
+          },
+          {
+            "name": "Baby Food"
+          },
+          {
+            "name": "Baby Gear"
+          },
+          {
+            "name": "Top Brand Deals"
+          }
+        ]
+      }
+    ]
+  }
+]
