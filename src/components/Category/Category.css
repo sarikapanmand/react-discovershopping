@@ -1,0 +1,112 @@
+.tooltip {
+  margin-left: 50px;
+  position: relative;
+  display: inline-block;
+}
+
+.tooltipcontent {
+  display: flex;
+  flex-direction: column;
+  visibility: hidden;
+  min-width: 480px;
+  margin-top: -10px;
+  position: absolute;
+  z-index: 1;
+  margin-left: -200px;
+}
+.tooltipcontentLast {
+  display: flex;
+  flex-direction: column;
+  visibility: hidden;
+  min-width: 480px;
+  margin-top: -10px;
+  position: absolute;
+  z-index: 99999;
+  margin-left: -320px;
+}
+.tooltipbody {
+  background: white;
+  color: #000;
+  border-radius: 6px;
+  box-shadow: 0 4px 16px 0 rgb(0 0 0 / 20%);
+}
+
+.tooltipcontent::before {
+  content: '';
+  margin: auto;
+  border-width: 10px;
+  border-style: solid;
+  border-color: transparent transparent lightgray transparent;
+  z-index: 100;
+}
+
+.tooltipcontentLast::before {
+  content: '';
+  margin: auto;
+  margin-right: 80px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: transparent transparent lightgray transparent;
+}
+
+.tooltip:hover .tooltipcontent {
+  visibility: visible;
+}
+
+.tooltip:hover .tooltipcontentLast {
+  visibility: visible;
+}
+
+.sublist {
+  list-style-type: none;
+  margin-top: -2px;
+  margin-bottom: -2px;
+  width: 100%;
+  padding: 0;
+}
+
+.leftList {
+  list-style: none;
+  height: 30px;
+  padding-top: 15px;
+  padding-left: 15px;
+}
+
+.leftList:hover {
+  color: blue;
+  background-color: rgba(216, 216, 216, 0.268);
+}
+
+.sub-icons {
+  visibility: hidden;
+  margin-top: -1.8px;
+}
+.leftList:hover .sub-icons {
+  visibility: visible;
+}
+
+.rightList {
+  list-style: none;
+  height: 30px;
+  padding-top: 15px;
+  text-align: left;
+  padding-left: 15px;
+}
+
+.rightList:hover {
+  color: blue;
+  background-color: rgba(216, 216, 216, 0.268);
+}
+
+.cat {
+  color: #000;
+}
+.cat:hover {
+  color: blue;
+}
+.cat:hover .catIcon {
+  transform: rotate(180deg);
+  transition: transform 0.2s;
+}
+
+
